@@ -5,7 +5,7 @@ Uses a remote controller Arduino library to facilitate the reading of IR signals
 Each button on the remote controller corresponds to some basic function for the car: accelerate, deaccelerate, stop etc.
 
 #Results
-Unidentical wheels have different frictions and torque causing a constant veer.
+Unidentical wheels have different frictions and torque causing a constant veer
 This can be nullified by biasing the analog signals to the dc motors
 Got the joystick controller working with it as well
 The encoded info from the position of the joy stick is used as input to flicker the IR LED to control the velocity of the car
